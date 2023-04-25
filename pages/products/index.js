@@ -16,7 +16,6 @@ export default function Index({products}) {
     return(
         <>
         <Head>
-            <h1>สินค้าทั้งหมด</h1>
             <meta name="keywords" content="Jetsadakorn"></meta>
         </Head>
         <div className={styles.container}>
